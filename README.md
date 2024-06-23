@@ -9,14 +9,44 @@ Quotiverse is a simple web application that displays a random quote of the day a
 - Copy the quote to the clipboard
 - Share the quote on Twitter
 
-## Demo
+## 🚀 Demo
 
-You can try the live demo of Quotiverse [here](#).
+Check out the live version of my portfolio [here](https://tanishak06.github.io/Discover-Tanishak/).
 
-## Installation
+## 🛠️ Technologies Used
 
-To set up this project locally, follow these steps:
+- **Frontend**:
+  - HTML5
+  - CSS3
+  - JavaScript (ES6+)
+- **Version Control**:
+  - [Git](https://git-scm.com/)
+  - [GitHub](https://github.com/)
 
-1. Clone the repository:
+### Directories
+
+- **`css/`**: Contains all CSS files.
+- **`js/`**: Contains JavaScript files.
+- **`images/`**: Stores images used in the website.
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TANISHAK06/quotiverse.git
+   git clone https://github.com/TANISHAK06/Quotiverse.git
+   cd Quotiverse
+   ```
+2. **Open the project**:
+
+   -Open index.html in your preferred web browser to view the site.
+
+3. **Development**:
+
+   -Modify the files in the css, js, and images directories to update the content and styling.
+
+## 📬 Contact
+
+Feel free to reach out if you’d like to collaborate or discuss anything tech-related:
+
+    -Email: tanishakshukla08@gmail.com
+    -LinkedIn: https://www.linkedin.com/in/tanishak-shukla-692238204/
