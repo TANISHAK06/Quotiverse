@@ -11,7 +11,7 @@ Quotiverse is a simple web application that displays a random quote of the day a
 
 ## 🚀 Demo
 
-Check out the live version of my portfolio [here](https://tanishak06.github.io/Discover-Tanishak/).
+Check out the live version of my portfolio [here](tanishak06.github.io/Quotiverse/).
 
 ## 🛠️ Technologies Used
 
