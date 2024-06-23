@@ -49,4 +49,4 @@ Check out the live version of my portfolio [here](https://tanishak06.github.io/D
 Feel free to reach out if you’d like to collaborate or discuss anything tech-related:
 
     -Email: tanishakshukla08@gmail.com
-    -LinkedIn:[Tanishak Shukla] (https://www.linkedin.com/in/tanishak-shukla-692238204/)
+    -LinkedIn:[Tanishak Shukla](https://tanishak06.github.io/Discover-Tanishak/](https://www.linkedin.com/in/tanishak-shukla-692238204/)
